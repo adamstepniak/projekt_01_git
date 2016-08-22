@@ -1,0 +1,3 @@
+01 Plik tekst-1.txt
+02 plik przyk³adowy
+03 koniec wpisu nr 1
