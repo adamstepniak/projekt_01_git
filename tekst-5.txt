@@ -2,3 +2,6 @@
 02 plik przyk³adowy
 03 opis5 opis5 opis5
 04 koniec wpisu nr 1
+05 dodano nowy wpis
+06 koniec wpisu nr 2
+
