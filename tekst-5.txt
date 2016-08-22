@@ -5,5 +5,7 @@
 06 koniec wpisu nr 2
 07 dodano nowy wpis
 08 koniec wpisu nr 3
+08 dodano nowy wpis
+09 koniec wpisu nr 4
 
 
