@@ -1,0 +1,4 @@
+01 Plik tekst-1-2-3.txt w podkatalogu-1-2 w podkatalogu-1
+02 plik przyk³adowy
+03 opis3 opis3 opis3
+04 koniec wpisu nr 1
