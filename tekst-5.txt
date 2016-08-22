@@ -1,7 +1,9 @@
 01 Plik tekst-5.txt
 02 plik przyk³adowy
-03 opis5 opis5 opis5
 04 koniec wpisu nr 1
 05 dodano nowy wpis
 06 koniec wpisu nr 2
+07 dodano nowy wpis
+08 koniec wpisu nr 3
+
 
