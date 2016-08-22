@@ -1,0 +1,6 @@
+01 Plik tekst-7.txt
+02 plik przyk³adowy
+03 opis7 opis7 opis7
+04 koniec wpisu nr 1
+
+
